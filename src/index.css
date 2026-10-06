@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+
+html{
+  scroll-behavior:smooth;
+}
+
+
+body{
+  background:#020617;
+  color:white;
+  font-family:"Inter",sans-serif;
+}
+
+
+a{
+  text-decoration:none;
+}
+
+
+::selection{
+  background:#0dcaf0;
+  color:#020617;
+}
